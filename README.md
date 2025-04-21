@@ -14,9 +14,9 @@ Welcome to my GitHub! I'm a passionate developer who loves transforming complex 
 
 ---
 
-💻 Featured Projects
+## 💻 Featured Projects
 
-| Project | Description | 🔗 Link | Website
+| Project | Description | 🔗 Link | Website |
 |--------|-------------|--------|-------- |
 |📊 Project Management Dashboard | Streamlined team collaboration, real-time tasks, analytics dashboard |[GitHub Repo](https://github.com/vinithyareddy/project-dashboard) | [Website](https://project-dashboard-61d4e.web.app) |
 |💰Expense Tracker App | Angular + Firebase-based bill tracking, monthly insights, credit summaries | [GitHub Repo](https://github.com/vinithyareddy/expense-tracker) | [Website](https://vp-expense-tracker.web.app/) |

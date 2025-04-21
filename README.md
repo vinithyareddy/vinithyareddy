@@ -30,4 +30,4 @@ Welcome to my GitHub! I'm a passionate developer who loves transforming complex 
 ---
 
 ⭐ Feel free to explore my projects, follow me, or reach out to me
-![image](https://github.com/user-attachments/assets/86d0e1f9-7912-42b1-90a2-eb823288837e)
+

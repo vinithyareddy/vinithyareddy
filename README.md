@@ -1,4 +1,4 @@
-👋 Hi there, I'm Vinithya Podduturi
+# 👋 Hi there, I'm Vinithya Podduturi
 
 Software Developer | Full-Stack Engineer 
 
@@ -6,15 +6,15 @@ Welcome to my GitHub! I'm a passionate developer who loves transforming complex 
 
 ---
 
-🔍 About Me
-•	🎓 Master’s in Business Analytics | Bachelor’s in Computer Science and Engineering
-•	💻 Software Developer with 6+ years of experience in frontend & full-stack development
-•	🌟 Focused on building seamless user experiences and intuitive interfaces with robust backend integrations
-•	🛠️ Tech Stack:  Angular, ASP.NET Core, TypeScript, genkins, Tailwind CSS, Node.js, Chart.js, Git, Docker, jasmine, Mockito, Power bi, etc.
+## About Me
+- 🎓 Master’s in Business Analytics | Bachelor’s in Computer Science and Engineering
+-	💻 Software Developer with 6+ years of experience in frontend & full-stack development
+- 🌟 Focused on building seamless user experiences and intuitive interfaces with robust backend integrations
+-  🛠️ Tech Stack:  Angular, ASP.NET Core, TypeScript, genkins, Tailwind CSS, Node.js, Chart.js, Git, Docker, jasmine, Mockito, Power bi, etc.
 
 ---
 
-💻 Highlight Projects
+💻 Featured Projects
 
 | Project | Description | 🔗 Link | Website
 |--------|-------------|--------|-------- |
@@ -24,8 +24,8 @@ Welcome to my GitHub! I'm a passionate developer who loves transforming complex 
 ---
 
 ## 🌐 Let’s Connect!
-•	📎 LinkedIn: https://www.linkedin.com/in/vinithyareddy16r19/ 
-•	✉️ Email: podduturivinithya@gmail.com
+-	📎 LinkedIn: https://www.linkedin.com/in/vinithyareddy16r19/ 
+-	✉️ Email: podduturivinithya@gmail.com
 
 ---
 
